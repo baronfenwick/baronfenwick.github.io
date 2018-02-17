@@ -1,0 +1,35 @@
+.site-footer {
+  border-top: none;
+}
+
+.site-header {
+  margin-top: 10px;
+  border-top: none;
+  border-bottom: none;
+}
+
+.page-content {
+  padding: $spacing-unit / 3 0;
+}
+
+.site-title {
+  @include relative-font-size(3);
+  letter-spacing: 0px;
+  float: none;
+
+  &, &:visited {
+    color: $grey-color-light;
+  }
+}
+
+.footer-col-wrapper {
+  color: $grey-color-light;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.contact-list {
+  text-align: center;
+}

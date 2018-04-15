@@ -42,3 +42,21 @@ a:hover {
 .contact-list {
   text-align: center;
 }
+
+.performances {
+  @extend .wrapper;
+  h1,h2 {
+    color: $grey_color-light;
+    margin-bottom: 2px;
+  }
+  h1 {
+    font-size: 1.4em;
+    margin-top: 20px;
+  }
+  h2 {
+    font-size: 1em;
+  }
+  p {
+    margin-bottom: 0;
+  }
+}

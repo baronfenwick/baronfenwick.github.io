@@ -18,6 +18,8 @@ email: baronfenwick@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://baronfenwick.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+header_pages:
+  - performances.html
 
 # Build settings
 markdown: kramdown

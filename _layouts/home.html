@@ -7,8 +7,7 @@ layout: default
   <img class="left" src={{ "assets/img/baron-sitting-at-piano.jpg" }}>
 
   <div class="bio">
-    {% capture my_include %}{% include bio.md %}{% endcapture %}
-    {{ my_include | markdownify }}
+    {{ content }}
   </div>
 
 </div>

@@ -1,5 +1,6 @@
 .site-footer {
   border-top: none;
+  padding-top: 10px;
 }
 
 .site-header {
@@ -24,6 +25,14 @@
 
 .footer-col-wrapper {
   color: $text-color;
+}
+
+.footer-col {
+  float: none;
+}
+
+.bio {
+  margin-top: 20px;
 }
 
 a:hover {

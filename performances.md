@@ -9,4 +9,11 @@ permalink: /performances/
 
 55 W. 13th St, New York, NY
 
-Solo recital
+Solo recital upon graduation from Mannes with a Master's of Music
+
+# July 20, 2018, 5:00 pm
+## Lang Recital Hall, Hunter College
+
+695 Park Avenue, New York, NY
+
+Solo recital in the [International Keyboard Institute and Festival](http://ikif.org/Schedule.aspx){:target="_blank"}

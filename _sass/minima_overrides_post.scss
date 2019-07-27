@@ -45,18 +45,23 @@ a:hover {
 
 .performances {
   @extend .wrapper;
-  h1,h2 {
+  h1,h2,h3 {
     color: $grey_color-light;
-    margin-bottom: 2px;
   }
   h1 {
-    font-size: 1.4em;
+    font-size: 1.8em;
     margin-top: 20px;
+    margin-bottom: 10px;
   }
   h2 {
+    font-size: 1.4em;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  h3 {
     font-size: 1em;
   }
-  p {
+  p, h3 {
     margin-bottom: 0;
   }
 }

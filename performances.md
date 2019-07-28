@@ -23,7 +23,9 @@ Mannes Sounds Festival: The Polish Connection
 
 ## December 9, 2019
 ### Tischman Auditorium, The New School, New York, NY
+
 Piano concerto by Logan Vrankovic, world premiere
+
 The Mannes Orchestra and David Hayes, music director
 
 &nbsp;
@@ -35,6 +37,7 @@ The Mannes Orchestra and David Hayes, music director
 ### Hitachi Systems Hall Sendai, Japan
 
 Sendai International Music Competition Winner's Gala Concert
+
 Beethoven Piano Concerto No. 3
 
 ## May 16, 2019
@@ -46,6 +49,7 @@ Solo recital
 ### Whiting Auditorium, Flint, MI
 
 Saint-Saens Piano Concerto No. 5
+
 Flint Symphony Orchestra and Enrique Diemecke, music director
 
 ## February 21, 2019
@@ -57,12 +61,14 @@ Flint Symphony Orchestra and Enrique Diemecke, music director
 ### Madison Theatre, Rockville Centre, NY
 
 Beethoven Piano Concerto No. 5
+
 South Shore Symphony and Scott Wiley, music director
 
 ## October 19, 2018
 ### Tischman Auditorium, New York, NY
 
 Bernstein "The Age of Anxiety"
+
 The Mannes Orchestra and David Hayes, music director
 
 ## July 20, 2018, 5:00 pm

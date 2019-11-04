@@ -25,6 +25,7 @@ header_pages:
 markdown: kramdown
 theme: minima
 plugins:
+google_analytics: 'UA-151345350-1'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

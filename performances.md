@@ -6,6 +6,38 @@ permalink: /performances/
 
 # Upcoming Performances
 
+## April 26, 2020, 8 pm
+### Recital with Natalie Xia, violin
+Steifel Hall, Mannes School of Music, 55 W 13th St., New York, NY
+
+
+## July 20, 2020, 6 pm
+### Merkin Hall, 129 W. 67th St, New York, NY
+
+Recital in the Prestige Series of the International Keyboard Institute and Festival
+
+http://ikif.org/
+
+
+&nbsp;
+
+
+# Past Performances
+
+
+## February 19 - 23, 2020
+### Concert tour in Oregon
+Five performances in Portland, Milwaukie, Cannon Beach, and Pendleton, OR
+
+Contact for details
+
+## December 13th, 2019, 7:30 pm
+### The Cell Theatre, New York, NY
+
+Solo and chamber music presented by Charles R Hale Productions
+
+http://charlesrhaleproductions.com/
+
 ## August 7, 2019, 7:00 pm
 ### Columbia University, New York, NY
 World premiere of three new piano concertos
@@ -28,10 +60,6 @@ Piano concerto by Logan Vrankovic, world premiere
 
 The Mannes Orchestra and David Hayes, music director
 
-&nbsp;
-
-
-# Past Performances
 
 ## June 9, 2019
 ### Hitachi Systems Hall Sendai, Japan

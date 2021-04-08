@@ -10,7 +10,7 @@ permalink: /performances/
 ### Pianist Baron Fenwick: New Voices from Around the Globe
 Livestream from Columbia University's St. Paul's Chapel
 
-[https://youtu.be/U0eN9wVSR5A]
+(https://youtu.be/U0eN9wVSR5A)
 
 
 &nbsp;

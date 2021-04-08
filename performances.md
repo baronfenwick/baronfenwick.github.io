@@ -6,17 +6,11 @@ permalink: /performances/
 
 # Upcoming Performances
 
-## April 26, 2020, 8 pm
-### Recital with Natalie Xia, violin
-Steifel Hall, Mannes School of Music, 55 W 13th St., New York, NY
+## April 8, 2021, 6 pm
+### Pianist Baron Fenwick: New Voices from Around the Globe
+Livestream from Columbia University's St. Paul's Chapel
 
-
-## July 20, 2020, 6 pm
-### Merkin Hall, 129 W. 67th St, New York, NY
-
-Recital in the Prestige Series of the International Keyboard Institute and Festival
-
-http://ikif.org/
+https://youtu.be/U0eN9wVSR5A
 
 
 &nbsp;

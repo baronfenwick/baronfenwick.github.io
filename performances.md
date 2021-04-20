@@ -6,18 +6,23 @@ permalink: /performances/
 
 # Upcoming Performances
 
-## April 8, 2021, 6 pm
-### Pianist Baron Fenwick: New Voices from Around the Globe
-Livestream from Columbia University's St. Paul's Chapel
+## April 20, 2021, 12 pm
+### Reinventing the Recital: Maria Zollo, soprano, and Baron Fenwick, piano
+Livestream from the Soapbox Gallery, Brooklyn, NY
 
-[https://youtu.be/U0eN9wVSR5A](https://youtu.be/U0eN9wVSR5A)
-
+[https://www.soapboxgallery.org/live-stream](https://www.soapboxgallery.org/live-stream)
 
 &nbsp;
 
 
 # Past Performances
 
+
+## April 8, 2021, 6 pm
+### Pianist Baron Fenwick: New Voices from Around the Globe
+Livestream from Columbia University's St. Paul's Chapel
+
+[https://youtu.be/U0eN9wVSR5A](https://youtu.be/U0eN9wVSR5A)
 
 ## February 19 - 23, 2020
 ### Concert tour in Oregon

@@ -6,16 +6,18 @@ permalink: /performances/
 
 # Upcoming Performances
 
-## April 20, 2021, 12 pm
-### Reinventing the Recital: Maria Zollo, soprano, and Baron Fenwick, piano
-Livestream from the Soapbox Gallery, Brooklyn, NY
-
-[https://www.soapboxgallery.org/live-stream](https://www.soapboxgallery.org/live-stream)
 
 &nbsp;
 
 
 # Past Performances
+
+
+## April 20, 2021, 12 pm
+### Reinventing the Recital: Maria Zollo, soprano, and Baron Fenwick, piano
+Livestream from the Soapbox Gallery, Brooklyn, NY
+
+[https://www.soapboxgallery.org/live-stream](https://www.soapboxgallery.org/live-stream)
 
 
 ## April 8, 2021, 6 pm

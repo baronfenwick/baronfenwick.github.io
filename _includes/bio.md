@@ -4,6 +4,7 @@ Baron has performed a wide range of repertoire, including four world premiere pi
 
 Originally from Boone, North Carolina, he currently lives in New York City.
 
+<br />
 
 > “Pianist Fenwick nearly blew the roof off Merkin Hall with his spectacular, riveting delivery of Copland’s Piano Variations.” - Anne Johnson, Classical Voice North America.
 

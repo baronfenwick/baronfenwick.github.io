@@ -7,3 +7,5 @@ RUN --mount=target=Gemfile,src=Gemfile \
 ENTRYPOINT ["jekyll"]
 
 CMD ["serve"]
+
+COPY . .

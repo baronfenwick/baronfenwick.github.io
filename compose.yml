@@ -1,0 +1,15 @@
+services:
+  jekyll:
+    build: .
+    command: serve --livereload
+    ports:
+      - "4000:4000"
+    develop:
+      watch:
+        - action: sync
+          path: .
+          target: /srv/jekyll
+          ignore:
+            - _site/
+        - action: rebuild
+          path: Gemfile

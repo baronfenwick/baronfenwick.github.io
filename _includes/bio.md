@@ -1,6 +1,6 @@
-Baron Fenwick, pianist, is the winner of numerous awards including the Silver Medal in the 2019 Sendai International Music Competition in Japan. A graduate with Master’s and Bachelor’s degrees from Mannes College of Music, he is currently working on a Doctorate of Musical Arts at The Juilliard School.
+Baron Fenwick, pianist, received his Doctorate of Musical Arts from The Juilliard School and previously graduated from Mannes College of Music with his Master's and Bachelor's degrees. He is the winner of numerous awards, including the Silver Medal in the Sendai International Music Competition in Japan. In the fall of 2026, he will begin a position as pianist and administrator for American Ballet Theatre.
 
-Baron has performed a wide range of repertoire, including four world premiere piano concertos. In the fall of 2024 he will be a featured soloist with the Canton Symphony and the Chamber Orchestra of Southern Maryland playing works by Gershwin, Rachmaninoff, and Shostakovich. In addition to working as a Teaching Fellow at Juilliard, he also maintains a private teaching studio.
+Baron has performed a wide range of repertoire, including more than 80 world premieres and four world premiere piano concertos. He has played with orchestras throughout the United States and around the world.
 
 Originally from Boone, North Carolina, he currently lives in New York City.
 

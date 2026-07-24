@@ -1,6 +1,6 @@
 Baron Fenwick, pianist, received his Doctorate of Musical Arts from The Juilliard School and previously graduated from Mannes College of Music with his Master's and Bachelor's degrees. He is the winner of numerous awards, including the Silver Medal in the Sendai International Music Competition in Japan. In the fall of 2026, he will begin a position as pianist and administrator for American Ballet Theatre.
 
-Baron has performed a wide range of repertoire, including more than 80 world premieres and four world premiere piano concertos. He has played with orchestras throughout the United States and around the world.
+Baron has performed a wide range of repertoire, including more than 60 world premieres and four world premiere piano concertos. He has played with orchestras throughout the United States and around the world.
 
 Originally from Boone, North Carolina, he currently lives in New York City.
 
